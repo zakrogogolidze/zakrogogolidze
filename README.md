@@ -1,4 +1,4 @@
-### Hi 👋 I Am Zakro 
+### Hi 👋 I Am Zak
 
 I have most experience writing code in high-level programming languages. 
 I would describe myself more as a back-end guy but I can do both back-end and front-end stuff.
